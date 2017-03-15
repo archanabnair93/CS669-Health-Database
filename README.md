@@ -1,2 +1,2 @@
-# CS669-Health-Database
-Term Project for METCS669 - Ambulatory Health Center Database
+# Health-Database
+Ambulatory Health Center Database Design and Implementation
