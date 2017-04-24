@@ -1,4 +1,4 @@
-# Health-Database - Ambulatory Health Center Database Design and Implementation
+# Health-Database - Ambulatory Health Center Database Design and Implementation in SQL
 
 
 Tools: SQL Server Management Studio
